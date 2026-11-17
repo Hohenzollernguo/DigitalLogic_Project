@@ -1,0 +1,17 @@
+# Reproducible Vivado project and simulation output
+/build/
+.Xil/
+xsim.dir/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+*.bit
+*.bin
+*.dcp
+*.rpt
+*.vvp
+__pycache__/
+# Keep source, XDC, Tcl, test benches and curated evidence under version control.
