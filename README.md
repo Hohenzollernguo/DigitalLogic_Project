@@ -63,4 +63,4 @@ vivado -mode batch -source scripts/create_project.tcl
 - 空壳核心 `cmd_ready=0`，命令控制不产生请求；`output_blank=1`，全部板上输出保持灭。
 - 引脚分配依据随项目提供的 XDC。S6 极性、拨码物理左右方向、数码管位序必须按 [IO 表](docs/io_map.md) 实机核实。
 
-依据：Project 层的《项目任务清单与三人分工报告.md》及《CS207_2026Project.pdf》§3～4；官方细则优先，本文中的接口命名与开发结构属于团队方案。
+
