@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-17T10:23:08.190Z",
+  "namespaceHash": "29e093e3115c1019c7ac2c809044a50851aa0d1ebad6856ec5b273b3ce6448de",
+  "configuration": {
+    "effective": {
+      "openOnStartup": true,
+      "pythonPath": "python",
+      "vivado.binDirectory": "",
+      "cliPath": "tools/difftest_cli/difftest_cli.py",
+      "port": "",
+      "baud": 115200,
+      "timeout": 1.4,
+      "commandDelay": 0.03,
+      "byteDelay": 0.005,
+      "baselineOnly": false,
+      "analysis.autoOnFailure": false,
+      "lab.accessMode": "course",
+      "lab.serviceUrl": "https://172.18.34.161:3443",
+      "lab.projectFile": "",
+      "lab.simTop": "",
+      "lab.jobs": 4,
+      "lab.configMaxBytes": 16000
+    },
+    "project": {
+      "root": "<workspace>",
+      "projectFile": null,
+      "projectDir": null,
+      "label": "",
+      "options": [],
+      "diagnostics": [
+        {
+          "code": "PROJECT_MISSING",
+          "severity": "error",
+          "message": "No Vivado .xpr project was found. Select an existing project inside this workspace."
+        }
+      ],
+      "part": "",
+      "top": "",
+      "simTop": "",
+      "simTopCandidates": [],
+      "simulationSet": "",
+      "sources": [],
+      "runs": [],
+      "runDirectories": []
+    },
+    "consent": {
+      "version": "2026-10-10.v2",
+      "analysis": true,
+      "telemetry": true,
+      "cloudRetention": true,
+      "serviceUrl": "https://172.18.34.161:3443",
+      "acceptedAt": "2026-10-27T12:37:23.746Z"
+    },
+    "tutorModel": "course-default",
+    "account": {
+      "id": "bde3b0a8-dad3-4390-a3bc-70f660e6b3e2",
+      "username": "12513012"
+    },
+    "extensionVersion": "0.6.8"
+  },
+  "truncated": false,
+  "omittedFields": [],
+  "omittedFieldCount": 0
+}
